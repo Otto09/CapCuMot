@@ -35,26 +35,16 @@ public class Desen
         square1.changeSize(150);
         square1.makeVisible();
         
-        circle1.changeColor("yellow");
-        circle1.changeSize(100);
-        circle1.moveHorizontal(65);
-        circle1.moveVertical(25);        
-        circle1.makeInvisible();
-        circle1.makeVisible();
+        circle2.changeColor("red");
+        circle2.changeSize(50);
+        circle2.moveHorizontal(110);
+        circle2.makeVisible();
         
         triangle1.changeColor("red");
         triangle1.changeSize(7, 7);
         triangle1.moveHorizontal(85);
         triangle1.moveVertical(65);
         triangle1.makeVisible();
-
-        circle2.changeColor("red");
-        circle2.changeSize(50);
-        circle2.moveHorizontal(110);
-        circle2.makeVisible();
-        
-        circle1.makeInvisible();
-        circle1.makeVisible();
         
         circle3.changeColor("black");
         circle3.changeSize(70);
@@ -62,21 +52,10 @@ public class Desen
         circle3.moveVertical(-10);
         circle3.makeVisible();
         
-        square1.makeInvisible();
-        square1.makeVisible();
-        
-        circle1.makeInvisible();
-        circle1.makeVisible();
-
-        triangle1.makeInvisible();
-        triangle1.makeVisible();
-        
-        circle2.makeInvisible();
-        circle2.makeVisible();
-        
-        circle3.makeInvisible();
-        circle3.makeVisible();
-        
+        circle1.changeColor("yellow");
+        circle1.changeSize(100);
+        circle1.moveHorizontal(65);
+        circle1.moveVertical(25);        
         circle1.makeInvisible();
         circle1.makeVisible();
         
